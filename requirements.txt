@@ -1,0 +1,6 @@
+
+PySide6
+mysql-connector-python
+SQLAlchemy
+reportlab
+python-dotenv
